@@ -10,7 +10,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/eduwp90)](https://github.com/eduwp90)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=eduwp90)
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/?username=eduwp90&count_private=true&theme=dark&showicons=true" alt="eduwp90" width="400"/>      <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduwp90&theme=dark" alt="eduwp90"  width="400"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/?username=eduwp90&count_private=true&theme=dark&showicons=true" alt="eduwp90" width="420"/>      <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduwp90&theme=dark" alt="eduwp90"  width="420"/></p>
 
 ## 🧐 About
 
