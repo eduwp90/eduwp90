@@ -1,4 +1,6 @@
-<h1 align="center">Hi , I'm Edu Minguez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1><p align="center">
+<h1 align="center">Hi , I'm Edu Minguez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;React%20|%20Node%20|%20Typescript%20;Tech%20Enthusiast;Always%20learning%20new%20stuff&center=true&width=500&height=50"></a>
 </p>
   
