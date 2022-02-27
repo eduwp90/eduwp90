@@ -3,13 +3,14 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;React%20|%20Node%20|%20Typescript%20;Tech%20Enthusiast;Always%20learning%20new%20stuff&center=true&width=500&height=50"></a>
 </p>
-  
+
+
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduwp90@gmail.com)](mailto:eduwp90@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/eduminguez/)](https://www.linkedin.com/in/eduminguez/)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/eduwp90)](https://github.com/eduwp90)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=eduwp90)
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/?username=eduwp90&count_private=true&theme=dark&showicons=true" alt="eduwp90"/>      <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduwp90&theme=dark" alt="eduwp90"  /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/?username=eduwp90&count_private=true&theme=dark&showicons=true" alt="eduwp90" width="400"/>      <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduwp90&theme=dark" alt="eduwp90"  width="400"/></p>
 
 ## 🧐 About
 
